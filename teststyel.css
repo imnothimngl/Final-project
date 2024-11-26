@@ -1,0 +1,24 @@
+/* Set the background image for the body */
+body {
+    background-image: url('bgduma.jpg'); /* Ensure the image path is correct */
+    background-size: cover; /* Ensures the image covers the entire background */
+    background-position: center; /* Centers the background image */
+    height: 100vh; /* Ensure full viewport height */
+    margin: 0; /* Remove default body margin */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white; /* Change text color to white for visibility */
+    font-family: Arial, sans-serif;
+}
+
+/* Style for the content div */
+.content {
+    text-align: center;
+}
+
+/* Style for the h1 (Hello text) */
+h1 {
+    font-size: 4rem;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /* Adds a slight shadow for better visibility */
+}
