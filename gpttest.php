@@ -15,17 +15,20 @@
     <link rel="stylesheet" type="text/css" href="teststyel.css">
 </head>
 <body>
+	<div id="outlinebox">
     <div id="content">
 		<form method="post" action="!!!!!!!!">
-        <h1> Sign In</h1>
+        <h1> DUMAGUETE CITY</h1>
+			<sup>by Duma Get ME</sup><br><br>
 			Username:<br>
 			<input type="text"	name="name"><br><br>
 			Password:<br>
 			
 			<input type="Password"	name="name"><br><br>
 							 
-			<input type="submit"	name="submit"><br><br>
+			<input type="submit"	name="submit"	id="subbutton"><br><br>
 			</form>
     </div>
+	</div>
 </body>
 </html>

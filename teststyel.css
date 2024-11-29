@@ -1,6 +1,6 @@
 /* Set the background image for the body */
 body {
-    background-image: url("https://github.com/imnothimngl/Final-project/blob/main/bgduma(2).jpg?raw=true");  left:20px;
+    background-image: url("https://github.com/imnothimngl/Final-project/blob/main/bg4.jpg?raw=true");  left:20px;
     background-size: cover; 
     background-position: center; 
     height: 100vh; 
@@ -10,12 +10,21 @@ body {
     align-items: center;
     color: white;
     font-family: Arial, sans-serif;
+	
 }
-
 
 #content {
-position:absolute;
- left:300px;
- color: rgb(117, 131, 82);
-}
+	align-content:center;
+	width:300px;
+	height:300px;
+	color:white;
+	position:absolute;
+	left:260px;
+	color:;
+	border:2px solid rgba(255, 255, 255,0.5);
+	backdrop-filter:	blur(20px);
+	padding:30px;
+	top:350px
 
+}
+/*remember to study the unfamilliar lines*/
