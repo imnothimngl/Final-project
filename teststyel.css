@@ -1,6 +1,6 @@
 /* Set the background image for the body */
 body {
-    background-image: url("https://github.com/imnothimngl/Final-project/blob/main/bg4.jpg?raw=true");  left:20px;
+    background-image: url("https://github.com/imnothimngl/Final-project/blob/main/Untitled%20design.jpg?raw=true");  left:20px;
     background-size: cover; 
     background-position: center; 
     height: 100vh; 
@@ -14,17 +14,22 @@ body {
 }
 
 #content {
-	align-content:center;
+	
 	width:300px;
 	height:300px;
-	color:white;
+	color:rgb(145,205,50);
 	position:absolute;
-	left:260px;
-	color:;
+	left:40%;
+	color:	);
 	border:2px solid rgba(255, 255, 255,0.5);
-	backdrop-filter:	blur(20px);
+	backdrop-filter:	blur(10px);
 	padding:30px;
-	top:350px
-
+	top:35%
+	
 }
-/*remember to study the unfamilliar lines*/
+
+#subbutton{
+	text-align:center;
+}
+/*remember to study the unfamilliar lines
+*/

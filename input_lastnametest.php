@@ -5,8 +5,8 @@
 	<link rel="stylesheet" type="text/css" href="loginpageformat.css">
 </head>
 	<body>
-		<img src="bgduma.jpg">
-		<div class="textbox"	style="text-align:center;"><form	method="post" action="display.php"><br><br>
+		<div class="textbox"	style="text-align:center;">
+			<form	method="post" action="display.php"><br><br>
 
 					Full Name:<input type=text	name="fname"><br><br>
 					Email Adress:<input type=text	name="Eaddrs"><br><br>
